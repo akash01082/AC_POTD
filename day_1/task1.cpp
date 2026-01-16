@@ -7,6 +7,5 @@ public:
             num+=n;
         }
         return num;
-
     }
 };
