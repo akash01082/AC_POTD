@@ -1,3 +1,4 @@
+//codeforce 546/A : Soldier and Bananas
 #include<iostream>
 using namespace std;
 

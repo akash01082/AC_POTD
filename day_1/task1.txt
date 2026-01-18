@@ -1,3 +1,4 @@
+//Leet 1512 : Number of Good Pairs
 class Solution {
 public:
     int numIdenticalPairs(vector<int>& nums) {
