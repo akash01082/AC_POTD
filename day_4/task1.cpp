@@ -1,3 +1,4 @@
+//Leet 1979 : Find Greatest Common Divisor of Array
 #include<bits/stdc++.h>
 using namespace std;
 
