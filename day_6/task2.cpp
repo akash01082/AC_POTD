@@ -1,3 +1,4 @@
+//Code Force 1832/A : New Palindrome
 #include<bits/stdc++.h>
 using namespace std;
 int main(){
