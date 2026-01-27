@@ -1,3 +1,4 @@
+//Code Force 1367/B : Even Array
 #include<bits/stdc++.h>
 using namespace std;
 int main(){
