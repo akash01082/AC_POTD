@@ -1,7 +1,9 @@
 <h2>🌟 POTD: Daily Data Structures & Algorithms Practice</h2>
 <h4>🏛️ MNNIT Allahabad - Application Club</h4>
 This repository is a dedicated log for the Problem of the Day (POTD) challenges curated by the Application Club at MNNIT. It represents a commitment to consistent practice in Data Structures, Algorithms, and Competitive Programming.
-<h4>✨About This Repository</h4>
+<h4>
+✨About This Repository
+</h4>
 <table>
     <tr>
         <th>key feature</th>
