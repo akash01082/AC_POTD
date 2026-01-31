@@ -1,3 +1,5 @@
+//Leet Code 118 : Pascal's Triangle
+
 #include<bits/stdc++.h>
 using namespace std;
 
@@ -16,5 +18,5 @@ vector<vector<int>> generate(int numRows) {
 }
 
 int main(){
-    
+
 }
