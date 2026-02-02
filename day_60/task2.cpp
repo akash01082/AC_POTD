@@ -1,3 +1,4 @@
+// print sum of N natural number using recursion
 #include<bits/stdc++.h>
 using namespace std;
 
@@ -13,5 +14,5 @@ int findSum(int n) {
 }
 
 int main(){
-    
+
 }
