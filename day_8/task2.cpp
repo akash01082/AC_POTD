@@ -1,3 +1,4 @@
+//codeforce 1843/B : long long 
 #include<bits/stdc++.h>
 using namespace std;
 int main(){
