@@ -32,8 +32,10 @@ This repository is a dedicated log for the Problem of the Day (POTD) challenges 
 <h4>📁 Repository Structure </h4>
 <p>The repository is organized by daily progress to make it easy to navigate</p>
 <ul>
+
     <li>DAY_N/: Contains the code for the day.</li>
     <li>Solution.cpp: The optimized C++ implementation</li>
+
 </ul>
 
 
