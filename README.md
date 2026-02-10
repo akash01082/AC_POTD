@@ -25,10 +25,8 @@ This repository is a dedicated log for the Problem of the Day (POTD) challenges 
         <td>Fundamental to advanced concepts including Arrays, Strings, Tree, Graphs, DP, and Bitmasking.</td>
     </tr>
     <tr>
-
         <td>Language</td>
         <td>Primarily implemented in C++ (CPP).</td>
-        
     </tr>
 </table>
 <h4>📁 Repository Structure </h4>
