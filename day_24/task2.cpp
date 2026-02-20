@@ -1,4 +1,4 @@
-// Geeks for Geeks : 
+// Geeks for Geeks : Implement Queue Using Array
 
 class myQueue {
     
