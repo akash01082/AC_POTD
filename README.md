@@ -20,7 +20,6 @@ This repository is a dedicated log for the Problem of the Day (POTD) challenges 
         <td>Purpose</td>
         <td>To document the journey of mastering DSA and CP through consistent daily effort.</td>
     </tr>
-    
     <tr>
         <td>Topics</td>
         <td>Fundamental to advanced concepts including Arrays, Strings, Tree, Graphs, DP, and Bitmasking.</td>
