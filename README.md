@@ -12,6 +12,7 @@ This repository is a dedicated log for the Problem of the Day (POTD) challenges 
         <th>key feature</th>
         <th>Details</th>
     </tr>
+    
     <tr>
         <td>source</td>
         <td>Problems assigned daily by the Application Club, MNNIT</td>
