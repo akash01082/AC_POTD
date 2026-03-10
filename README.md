@@ -8,6 +8,7 @@ This repository is a dedicated log for the Problem of the Day (POTD) challenges 
 ✨About This Repository
 </h4>
 <table>
+
     <tr>
         <th>key feature</th>
         <th>Details</th>
